@@ -1,0 +1,6 @@
+*.txt filter=encrypt diff=encrypt
+[merge]
+    renormalize=true
+*.xml filter=encrypt diff=encrypt
+[merge]
+    renormalize=true
